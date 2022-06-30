@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.master.cs" Inherits="OnlineWorker.View.Admin.AdminMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <link rel="stylesheet" href="../../Asset/Lib/Bootstrap/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
+   <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand">
+      <div class="logo-image">
+        <img src="../../Asset/Images/icon_admin.png" 
+        style="width: 46px;
+        height: 46px;
+        border-radius: 50%;
+        overflow: hidden;
+        margin-top: -6px;">
+      </div>
+    </a>    
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      
+        <li class="nav-item">
+          <a class="nav-link" href="Workers.aspx">Workers</a>
+        </li>
+            <li class="nav-item">
+          <a class="nav-link" href="Seats.aspx">Seats</a>
+        </li>
+            <li class="nav-item">
+          <a class="nav-link" href="Operators.aspx">Operators</a>
+        </li>
+            <li class="nav-item">
+          <a class="nav-link" href="Dashboard.aspx">Dashboard</a>
+        </li>    
+      </ul>
+
+      <a href="../Login.aspx" class="btn btn-outline-primary my-2 my-sm-0">Logout</a>
+
+
+    </div>
+  </div>
+</nav>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="Mybody" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

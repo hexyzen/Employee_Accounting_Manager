@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnlineWorker.Global" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.Models.Functions" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAABAAAAAAQAAAAAAAAAAAEAAAAAAAQAAAAgAAg=</HashCode>
+      <FileName>Models\Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.View.Admin.AdminMaster" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAgAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Admin\AdminMaster.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.View.Admin.Dashboard" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAMACgAAACEEAgAAAAACAAEAQAIIEAAAAAIAAAA=</HashCode>
+      <FileName>View\Admin\Dashboard.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.View.Admin.Operators" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABERAAAgQAgAgQAAAAAggAAAIUAAAAAAAAAAAIAAIA=</HashCode>
+      <FileName>View\Admin\Operators.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.View.Admin.Seats" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEBABIAAgQAgAAQAAAAAAgAAAAUAAAAQAAAAEAIAAIA=</HashCode>
+      <FileName>View\Admin\Seats.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.View.Admin.Workers" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABIDAAQiQAgAAQAAAAgAgCAAAUAAAAAAAAAAAICAIA=</HashCode>
+      <FileName>View\Admin\Workers.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.View.Login" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAkAAAAAAIABgIAIAEAAAAgAAEAAAIAAAA=</HashCode>
+      <FileName>View\Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.View.Seller.Billing" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAOICAAQABAAACQAAAAgAgCAAYEhAAACAAQAAAIAoMA=</HashCode>
+      <FileName>View\Seller\Billing.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineWorker.View.Seller.SellerMaster" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAgAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>View\Seller\SellerMaster.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Web.UI.MasterPage" Collapsed="true">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

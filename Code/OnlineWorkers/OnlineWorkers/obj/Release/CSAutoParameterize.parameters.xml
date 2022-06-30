@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConnString-Web.config Connection String" description="ConnString Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:onlineworkersdbserver.database.windows.net,1433;Initial Catalog=WorkerAsppDb;Persist Security Info=False;User ID=hexyzen;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Roman\ Kostiuk\\Desktop\\OnlineWorkers\\OnlineWorkers\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/onlineworkersdbserver/databases/WorkerAsppDb",
+      "type": "mssql.azure",
+      "connectionId": "ConnString",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

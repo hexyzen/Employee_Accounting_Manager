@@ -1,0 +1,42 @@
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\csc.exe
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\vbc.exe
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\VBCSCompiler.exe
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\OnlineGrocery.dll.config
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\OnlineGrocery.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\OnlineGrocery.pdb
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\obj\Debug\OnlineGrocery.dll
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\obj\Debug\OnlineGrocery.pdb
+C:\Users\afwadmin\documents\visual studio 2015\Projects\OnlineGrocery\OnlineGrocery\obj\Debug\OnlineGrocery.csprojResolveAssemblyReference.cache
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\csc.exe
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\vbc.exe
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\OnlineGrocery.dll.config
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\OnlineGrocery.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\OnlineGrocery.pdb
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\obj\Debug\OnlineGrocery.csproj.CoreCompileInputs.cache
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\obj\Debug\OnlineGrocery.csproj.CopyComplete
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\obj\Debug\OnlineGrocery.dll
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\obj\Debug\OnlineGrocery.pdb
+C:\Users\Roman Kostiuk\Desktop\OnlineGrocery\OnlineGrocery\obj\Debug\OnlineGrocery.csproj.AssemblyReference.cache
