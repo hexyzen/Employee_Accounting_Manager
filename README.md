@@ -4,3 +4,5 @@ The architectural pattern REST was used as the basis of the project structure, w
 Information is stored using the SQL Server Expess database management system, which connects and interacts with the database itself.
 Feasibility study of expediency of development is also carried out and the corresponding economic calculations are carried out. 
 The section on life safety discusses the organizational requirements for working with a computer.
+
+I deploy this project on Microsoft Azure. You can try this project for free by clicking on this link: https://onlineworkers.azurewebsites.net/Login.aspx
