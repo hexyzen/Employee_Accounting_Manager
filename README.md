@@ -6,6 +6,6 @@ Feasibility study of expediency of development is also carried out and the corre
 The section on life safety discusses the organizational requirements for working with a computer.
 
 For detailed information how project is working you can check the Explanatory note and screenshots in it.
-I deploy this project on Microsoft Azure. You can try this project for free by clicking on this link: https://onlineworkers.azurewebsites.net/Login.aspx
+I deploy this project on Microsoft Azure. You can try this project for free by clicking on this link: https://onlineworkers.azurewebsites.net
 
 P.S. If you need additional information or explanation you can contact me by Email. 
